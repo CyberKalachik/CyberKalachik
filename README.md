@@ -1,8 +1,8 @@
-## 📊 I'm a Data & Analytics Economist with experience in procurement, supply chain–related analytics, and contract-focused operations within highly regulated environments. My background includes work in centralized corporate procurement (Industry Procurement Directorate at Rosatom), government finance, and large-scale public procurement systems.
+📊 I'm a **Data & Analytics Economist** with experience in procurement, supply chain–related analytics, and contract-focused operations within highly regulated environments. My background includes work in **centralized corporate procurement (Industry Procurement Directorate at Rosatom), government finance, and large-scale public procurement systems**.
 
-🧠 I have hands-on experience in data analysis, reporting, and analytical support for decision-making, working extensively with Python, SQL, Power BI, and advanced Microsoft Excel. I am comfortable analyzing complex datasets, validating data integrity, and translating data into clear, actionable insights for stakeholders and management.
+🧠 I have hands-on experience in data analysis, reporting, and analytical support for decision-making, working extensively with **Python, SQL, Power BI, and advanced Microsoft Excel**. I am comfortable analyzing complex datasets, validating data integrity, and translating data into clear, actionable insights for stakeholders and management.
 
-🏛️ Previously, I worked with government and enterprise procurement systems, including centralized procurement platforms, electronic document management systems, and national public procurement portals. This experience strengthened my understanding of process governance, compliance, and risk-controlled environments, as well as cross-functional collaboration across multiple organizations.
+🏛️ Previously, I worked with **government and enterprise procurement systems**, including **centralized procurement platforms, electronic document management systems, and national public procurement portals**. This experience strengthened my understanding of process governance, compliance, and risk-controlled environments, as well as cross-functional collaboration across multiple organizations.
 
 🎓 I hold a B.A. in Economics and a B.A. in Foreign Languages, and I continuously invest in professional growth through certifications in Machine Learning, SQL, and Python for Data Analysis.
 
