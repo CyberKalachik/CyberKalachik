@@ -11,3 +11,18 @@
 🚀 I am particularly interested in roles at the intersection of data analytics, operations, and supply chain, where well-designed metrics and structured analysis can drive measurable improvements.
 
 - 📫 **Let's Connect**: [LinkedIn](https://www.linkedin.com/in/cyberkalachik/)
+
+## 📊 Portfolio Highlights
+
+Power BI dashboard
+UK gender Pay Gap Single Page Report
+
+![Overview](Screenshots/Overview.jpg)
+
+Airline forecast
+
+![Projected_YoY_Growth_2026](Screenshots/Projected_YoY_Growth_2026.jpg)
+
+SQL/Excel dashboard
+
+![UnitsSold_by_Year_and_Profit_by_country](Screenshots/UnitsSold_by_Year_and_Profit_by_country.jpg)
