@@ -16,14 +16,20 @@
 ## 📊 Portfolio Highlights
 
 <p align="center">
-  <b>Power BI Dashboard — UK Gender Pay Gap</b><br>
   <img src="Screenshots/Overview.jpg" width="48%">
-  
-  <b>Airline Passenger Forecast (Machine Learning)</b><br>
   <img src="Screenshots/Projected_YoY_Growth_2026.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/UnitsSold_by_Year_and_Profit_by_country.jpg" width="48%">
+  <img src="Screenshots/Page1.jpg" width="48%">
 </p>
 
 <p align="center">
   <b>End-to-End SQL → Excel Analytics Dashboard</b><br>
   <img src="Screenshots/UnitsSold_by_Year_and_Profit_by_country.jpg" width="70%">
 </p>
+
+<p align="center">
+  <b>Power BI Dashboard — UK Gender Pay Gap</b><br>
+  <img src="Screenshots/Page1.jpg" width="48%">
