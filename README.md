@@ -16,11 +16,16 @@
 ## 📊 Portfolio Highlights
 
 <p align="center">
+  <img src="Screenshots/Page1.jpg" width="48%">
   <img src="Screenshots/Overview.jpg" width="48%">
-  <img src="Screenshots/Projected_YoY_Growth_2026.jpg" width="48%">
 </p>
 
 <p align="center">
+  <img src="Screenshots/pilots.jpg" width="48%">
   <img src="Screenshots/UnitsSold_by_Year_and_Profit_by_country.jpg" width="48%">
-  <img src="Screenshots/Page1.jpg" width="48%">
+</p>
+
+<p align="center">
+  <img src="Screenshots/CompanyCase.jpg" width="48%">
+  <img src="Screenshots/Projected_YoY_Growth_2026.jpg" width="48%">
 </p>
