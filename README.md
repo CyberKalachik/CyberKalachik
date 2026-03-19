@@ -4,7 +4,7 @@
 
 🏛️ Previously, I worked with **government and enterprise procurement systems**, including centralized procurement platforms, electronic document management systems, and national public procurement portals. This strengthened my expertise in governance, compliance, risk-controlled environments, and cross-functional collaboration.
 
-🎓 I hold a B.A. in Economics and a B.A. in Foreign Languages and continuously invest in professional development through certifications in Machine Learning, SQL, and Python for Data Analysis.
+🎓 I hold a B.A. in Economics and a B.A. in Public Administration and continuously invest in professional development through certifications in Machine Learning, SQL, and Python for Data Analysis.
 
 📈 My current focus is on data analytics, business intelligence, and analytical storytelling, with a strong interest in solving real-world operational and supply chain challenges with data.
 
